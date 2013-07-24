@@ -11,3 +11,13 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+dreads:
+  title: Synthetic Dread Extentions
+  description: 
+    Pink and white dread extensions with added dread braids.
+  price: 250.00
+  image_url: dread_extensions.jpg
+#END:dreads
+
+
