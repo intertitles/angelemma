@@ -1,4 +1,4 @@
 # Agile Web Development with Rails: sample depot application
 
-This is a sample shopping cart application for Agile Web Development with Rails
-by [Jamie Franklin](http://www.intertitles.com/).
+This is a sample shopping cart application following along with Agile Web Development with Rails
+by Jamie Franklin (http://www.intertitles.com/).
